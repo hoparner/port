@@ -20,7 +20,7 @@ select lang in "English" "Հայերեն" "Русский"; do
       break
       ;;
     "Հայերեն")
-      read -p "Մուտքագրեք տիրույթը կամ IP հասցեն: " domain
+      read -p "Մուտքագրեք Domain կամ IP հասցեն: " domain
       echo ""
       echo -e "${BLUE}Խնդրում ենք սպասել..."
       echo ""
