@@ -1,5 +1,5 @@
 Author by: legion_603
-TELEGRAM:https://t.me/hoparner
+#TELEGRAM:https://t.me/hoparner
 
 
 [En]Reliable and free Terminal scanner for analyzing local networks. The program scans all devices on the network.
@@ -16,6 +16,8 @@ You just need to enter your IP or domain.
 
 how to use  как исползвать  Ինչպես օգտագործել 
   
-1. git clone  https://github.com/hoparner/port.git
-2. cd port
-3. bash port_checker.sh      
+`git clone  https://github.com/hoparner/port.git`
+
+`cd port`
+
+`bash port_checker.sh`     
